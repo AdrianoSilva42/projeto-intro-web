@@ -1,33 +1,30 @@
 
 # Nome do Projeto
 
-> Overview da aplicação.
+## -Arcos de Sandman
 
-![Vídeo de demonstração]()
+## Vídeo de demonstração:
+
+
+https://user-images.githubusercontent.com/92235269/195879179-74c42bd8-6be6-442a-9f6b-cad612962390.mp4
+
 
 ## 📲 Link do deploy
 
-Use a aplicação em [Link do deploy]() 
+ - Use a aplicação em: [awful-paint.surge.sh]() 
 
 ## 📑 Sobre o projeto
 
-Qual o intuito do projeto? Foi realizado como estudos, processo seletivo, atividade curricular? Exponha brevemente.
+ - Segundo projeto do curso de Desenvolvimento-Web Full-Stack da Labenu. O objetivo do projeto era criar uma lista de coisas e que quando fossem digitadas na caixa de busca, o item deveria ser mostrado. Eu optei por fazer uma lista dos arcos da famosa historias em quadrinhos SANDMAN, do aclamado escritor britanico Neil Gaiman.
+
 
 ## ✍🏻 Funcionalidades
 
 A aplicação conta com as seguintes funcionalidades:
 
-- 
--
--
+- Caixa de pesquisa
+- Botão para refresh da pagina
 
-## 📆 Implementações futuras e melhorias
-
-Este é um projeto em desenvolvimento e ainda conta com melhorias e o incremento de outras funcionalidades, sendo elas:
-
--
--
--
 
 ## 🛠 Bibliotecas
 
@@ -36,26 +33,6 @@ Utiliza as seguintes bibliotecas de suporte:
 - 
 - 
 - 
-
-## 🖥 Contribuindo ou testando localmente 
-
-```
-# Clone o repositório 
-
-$ git clone github.com/seu-usuario/repositorio.git
-```
-
-```
-# Instale as dependências 
-
-$ npm install
-```
-
-```
-# Rode o projeto
-
-$ npm run dev
-```
 
 ## Sugestões 🗣
 
